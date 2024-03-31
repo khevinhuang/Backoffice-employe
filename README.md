@@ -9,3 +9,7 @@ Run `ng serve` or `npm start` for a dev server. Navigate to `http://localhost:42
 ## Login page
 
 For login username: `admin` and password: `admin123`
+
+## Register page
+
+You can create own user by click `Register` in login page.
